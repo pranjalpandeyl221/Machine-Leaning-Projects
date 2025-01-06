@@ -1,4 +1,4 @@
-Machine Learning Projects
+# Machine Learning Projects:
 This repository contains multiple machine learning projects, starting with a Hybrid Machine Learning Model using Python. This model combines LSTM (Long Short-Term Memory) for sequential data processing and Linear Regression for trend analysis to improve prediction accuracy.
 
 Projects
