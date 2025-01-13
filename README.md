@@ -1,15 +1,15 @@
-# Machine Learning Projects:
-This repository contains multiple machine learning projects, starting with a Hybrid Machine Learning Model using Python. This model combines LSTM (Long Short-Term Memory) for sequential data processing and Linear Regression for trend analysis to improve prediction accuracy.
 
-Projects
-Hybrid Machine Learning Model: A model that combines LSTM and Linear Regression for stock price prediction.
+
+<h1>Hybrid LSTM Model for Stock Price Prediction</h1>
+Overview
+This project combines LSTM (Long Short-Term Memory) networks with Linear Regression to predict stock prices. The LSTM model captures time-dependent patterns in stock price data, while Linear Regression is used for modeling broader trends.
+
+Features
+Hybrid Model: Combines LSTM for time-series prediction and Linear Regression for trend forecasting.
+Stock Price Prediction: Predicts future stock prices based on historical data.
 Requirements
-Python 3.x
+Python
 TensorFlow
 Scikit-learn
-NumPy
 Pandas
-Installation
-Clone the repository
-Install dependencies: pip install -r requirements.txt
-Run the project
+NumPy
